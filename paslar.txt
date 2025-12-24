@@ -1,0 +1,599 @@
+Mustafa Kocak 5 42
+
+Recep Avsaroglu 7 48
+
+Lionel Messi 2 55
+
+Cristiano Ronaldo 3 95
+
+Osman Dembele 14 78
+
+Arda Guler 4 92
+
+Lamine Yamal 6 62
+
+Enes Memnun 18 72
+
+Murat Dorteller 1 185
+
+Arda Turan 8 75
+
+Sergen Yalcin 5 65
+
+Mauro Icardi 10 82
+
+Kenan Yildiz 12 74
+
+Hakan Calhanoglu 6 98
+
+Kerem Akturkoglu 16 82
+
+Baris Alper 28 72
+
+Kylian Mbappe 11 105
+
+Abdulkerim Bardakci 12 90
+
+Youssef Enesyri 22 92
+
+Enes Batur 7 88
+
+Ugur Unal 0 145
+
+Busra Duygu 11 108
+
+Mustafa Kocak 6 39
+
+Recep Avsaroglu 8 52
+
+Lionel Messi 1 60
+
+Cristiano Ronaldo 4 110
+
+Osman Dembele 15 80
+
+Arda Guler 3 85
+
+Lamine Yamal 8 68
+
+Enes Memnun 20 65
+
+Murat Dorteller 2 190
+
+Arda Turan 10 70
+
+Sergen Yalcin 7 72
+
+Mauro Icardi 14 85
+
+Kenan Yildiz 13 77
+
+Hakan Calhanoglu 8 92
+
+Kerem Akturkoglu 18 80
+
+Baris Alper 30 75
+
+Kylian Mbappe 14 102
+
+Abdulkerim Bardakci 15 98
+
+Youssef Enesyri 24 90
+
+Enes Batur 5 92
+
+Ugur Unal 1 170
+
+Busra Duygu 13 100
+
+Mustafa Kocak 4 45
+
+Recep Avsaroglu 6 55
+
+Lionel Messi 3 48
+
+Cristiano Ronaldo 2 105
+
+Osman Dembele 12 85
+
+Arda Guler 5 89
+
+Lamine Yamal 7 72
+
+Enes Memnun 19 78
+
+Murat Dorteller 0 210
+
+Arda Turan 9 78
+
+Sergen Yalcin 4 68
+
+Mauro Icardi 12 88
+
+Kenan Yildiz 14 82
+
+Hakan Calhanoglu 7 95
+
+Kerem Akturkoglu 15 88
+
+Baris Alper 32 80
+
+Kylian Mbappe 13 110
+
+Abdulkerim Bardakci 14 94
+
+Youssef Enesyri 26 102
+
+Enes Batur 8 98
+
+Ugur Unal 0 155
+
+Busra Duygu 12 112
+
+Mustafa Kocak 5 41
+
+Recep Avsaroglu 7 50
+
+Lionel Messi 2 58
+
+Cristiano Ronaldo 1 98
+
+Osman Dembele 13 82
+
+Arda Guler 4 94
+
+Lamine Yamal 6 65
+
+Enes Memnun 17 74
+
+Murat Dorteller 1 205
+
+Arda Turan 11 73
+
+Sergen Yalcin 6 70
+
+Mauro Icardi 13 86
+
+Kenan Yildiz 15 80
+
+Hakan Calhanoglu 9 91
+
+Kerem Akturkoglu 14 85
+
+Baris Alper 29 78
+
+Kylian Mbappe 15 106
+
+Abdulkerim Bardakci 13 96
+
+Youssef Enesyri 23 99
+
+Enes Batur 6 95
+
+Ugur Unal 0 165
+
+Busra Duygu 14 105
+
+Mustafa Kocak 6 44
+
+Recep Avsaroglu 9 53
+
+Lionel Messi 3 52
+
+Cristiano Ronaldo 5 115
+
+Osman Dembele 16 79
+
+Arda Guler 2 87
+
+Lamine Yamal 5 70
+
+Enes Memnun 21 69
+
+Murat Dorteller 2 198
+
+Arda Turan 8 76
+
+Sergen Yalcin 8 66
+
+Mauro Icardi 15 89
+
+Kenan Yildiz 11 83
+
+Hakan Calhanoglu 10 94
+
+Kerem Akturkoglu 17 83
+
+Baris Alper 31 74
+
+Kylian Mbappe 12 108
+
+Abdulkerim Bardakci 16 92
+
+Youssef Enesyri 25 96
+
+Enes Batur 4 90
+
+Ugur Unal 1 150
+
+Busra Duygu 10 109
+
+Mustafa Kocak 4 43
+
+Recep Avsaroglu 10 47
+
+Lionel Messi 1 54
+
+Cristiano Ronaldo 3 102
+
+Osman Dembele 11 88
+
+Arda Guler 6 90
+
+Lamine Yamal 9 64
+
+Enes Memnun 22 71
+
+Murat Dorteller 0 192
+
+Arda Turan 7 81
+
+Sergen Yalcin 5 74
+
+Mauro Icardi 11 81
+
+Kenan Yildiz 16 79
+
+Hakan Calhanoglu 5 101
+
+Kerem Akturkoglu 13 86
+
+Baris Alper 33 79
+
+Kylian Mbappe 16 115
+
+Abdulkerim Bardakci 14 99
+
+Youssef Enesyri 27 94
+
+Enes Batur 9 93
+
+Ugur Unal 0 175
+
+Busra Duygu 15 102
+
+Mustafa Kocak 7 40
+
+Recep Avsaroglu 8 56
+
+Lionel Messi 2 62
+
+Cristiano Ronaldo 4 99
+
+Osman Dembele 18 76
+
+Arda Guler 4 96
+
+Lamine Yamal 7 75
+
+Enes Memnun 20 73
+
+Murat Dorteller 1 215
+
+Arda Turan 12 74
+
+Sergen Yalcin 6 69
+
+Mauro Icardi 16 84
+
+Kenan Yildiz 14 81
+
+Hakan Calhanoglu 7 97
+
+Kerem Akturkoglu 19 81
+
+Baris Alper 27 77
+
+Kylian Mbappe 10 112
+
+Abdulkerim Bardakci 15 95
+
+Youssef Enesyri 24 101
+
+Enes Batur 7 96
+
+Ugur Unal 1 180
+
+Busra Duygu 11 106
+
+Mustafa Kocak 5 46
+
+Recep Avsaroglu 6 51
+
+Lionel Messi 4 50
+
+Cristiano Ronaldo 2 108
+
+Osman Dembele 13 84
+
+Arda Guler 3 93
+
+Lamine Yamal 6 71
+
+Enes Memnun 18 76
+
+Murat Dorteller 0 200
+
+Arda Turan 10 79
+
+Sergen Yalcin 7 71
+
+Mauro Icardi 12 90
+
+Kenan Yildiz 15 78
+
+Hakan Calhanoglu 8 94
+
+Kerem Akturkoglu 14 89
+
+Baris Alper 31 82
+
+Kylian Mbappe 14 107
+
+Abdulkerim Bardakci 12 97
+
+Youssef Enesyri 23 97
+
+Enes Batur 5 91
+
+Ugur Unal 0 162
+
+Busra Duygu 12 110
+
+Mustafa Kocak 6 42
+
+Recep Avsaroglu 9 49
+
+Lionel Messi 1 57
+
+Cristiano Ronaldo 5 103
+
+Osman Dembele 17 81
+
+Arda Guler 5 91
+
+Lamine Yamal 8 66
+
+Enes Memnun 23 68
+
+Murat Dorteller 2 188
+
+Arda Turan 9 72
+
+Sergen Yalcin 8 73
+
+Mauro Icardi 15 83
+
+Kenan Yildiz 12 85
+
+Hakan Calhanoglu 6 99
+
+Kerem Akturkoglu 20 78
+
+Baris Alper 34 74
+
+Kylian Mbappe 11 114
+
+Abdulkerim Bardakci 17 93
+
+Youssef Enesyri 26 95
+
+Enes Batur 8 97
+
+Ugur Unal 1 158
+
+Busra Duygu 13 103
+
+Mustafa Kocak 4 44
+
+Recep Avsaroglu 7 54
+
+Lionel Messi 2 53
+
+Cristiano Ronaldo 3 106
+
+Osman Dembele 12 86
+
+Arda Guler 4 88
+
+Lamine Yamal 7 69
+
+Enes Memnun 19 75
+
+Murat Dorteller 0 195
+
+Arda Turan 11 77
+
+Sergen Yalcin 6 67
+
+Mauro Icardi 14 87
+
+Kenan Yildiz 13 84
+
+Hakan Calhanoglu 9 93
+
+Kerem Akturkoglu 15 84
+
+Baris Alper 30 81
+
+Kylian Mbappe 13 109
+
+Abdulkerim Bardakci 14 91
+
+Youssef Enesyri 25 100
+
+Enes Batur 6 94
+
+Ugur Unal 0 168
+
+Busra Duygu 14 107
+
+Mustafa Kocak 5 43
+
+Recep Avsaroglu 8 50
+
+Lionel Messi 3 59
+
+Cristiano Ronaldo 2 112
+
+Osman Dembele 14 83
+
+Arda Guler 5 95
+
+Lamine Yamal 9 63
+
+Enes Memnun 21 70
+
+Murat Dorteller 1 202
+
+Arda Turan 8 80
+
+Sergen Yalcin 5 75
+
+Mauro Icardi 11 86
+
+Kenan Yildiz 16 81
+
+Hakan Calhanoglu 7 100
+
+Kerem Akturkoglu 17 87
+
+Baris Alper 32 76
+
+Kylian Mbappe 15 104
+
+Abdulkerim Bardakci 13 98
+
+Youssef Enesyri 24 93
+
+Enes Batur 7 92
+
+Ugur Unal 0 172
+
+Busra Duygu 12 104
+
+Mustafa Kocak 6 40
+
+Recep Avsaroglu 9 55
+
+Lionel Messi 1 56
+
+Cristiano Ronaldo 4 100
+
+Osman Dembele 15 79
+
+Arda Guler 3 97
+
+Lamine Yamal 6 74
+
+Enes Memnun 18 77
+
+Murat Dorteller 2 196
+
+Arda Turan 10 75
+
+Sergen Yalcin 7 69
+
+Mauro Icardi 13 89
+
+Kenan Yildiz 14 79
+
+Hakan Calhanoglu 8 96
+
+Kerem Akturkoglu 19 83
+
+Baris Alper 28 80
+
+Kylian Mbappe 12 111
+
+Abdulkerim Bardakci 15 96
+
+Youssef Enesyri 26 98
+
+Enes Batur 5 95
+
+Ugur Unal 1 164
+
+Busra Duygu 11 109
+
+Mustafa Kocak 4 47
+
+Recep Avsaroglu 7 51
+
+Lionel Messi 2 51
+
+Cristiano Ronaldo 3 107
+
+Osman Dembele 13 87
+
+Arda Guler 4 90
+
+Lamine Yamal 8 70
+
+Enes Memnun 20 74
+
+Murat Dorteller 0 208
+
+Arda Turan 9 76
+
+Sergen Yalcin 6 74
+
+Mauro Icardi 12 84
+
+Kenan Yildiz 15 82
+
+Hakan Calhanoglu 6 95
+
+Kerem Akturkoglu 14 90
+
+Baris Alper 33 78
+
+Kylian Mbappe 14 108
+
+Abdulkerim Bardakci 12 94
+
+Youssef Enesyri 23 96
+
+Enes Batur 8 94
+
+Ugur Unal 0 161
+
+Busra Duygu 13 101
+
+Mustafa Kocak 5 45
+
+Recep Avsaroglu 8 53
+
+Lionel Messi 3 55
+
+Cristiano Ronaldo 5 101
+
+Osman Dembele 16 82
+
+Arda Guler 2 92
+
+Lamine Yamal 7 67
+
+Enes Memnun 22 69
+
+Murat Dorteller 1 199
+
+Arda Turan 11 74
+
+Sergen Yalcin 8 70
+
+Mauro Icardi 15 88
+
+Kenan Yildiz 12 83
+
+Hakan Calhanoglu 9 98
